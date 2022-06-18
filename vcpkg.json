@@ -1,0 +1,11 @@
+{
+  "name": "haul",
+  "version-string": "0.1.0",
+  "description": "Package manager manager and build system generator generator",
+  "dependencies": [
+    "docopt",
+    "fmt",
+    "nlohmann-json",
+    "reproc"
+  ]
+}
